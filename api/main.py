@@ -40,5 +40,5 @@ def predict(customer: CustomerInput):
 @app.get("/")
 def home():
     return{
-        "message":"API is running"
+        "message":"API is runningo"
     }
